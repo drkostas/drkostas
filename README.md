@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://pypi.org/user/drkostas/">
-    <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&theme=radical&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=150px">
+    <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&theme=radical&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=150px&hide_rank=true">
 </a>
 <br/> 
     
