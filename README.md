@@ -19,7 +19,8 @@
 <a href="https://pypi.org/user/drkostas/">
     <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
-<img src="https://komarev.com/ghpvc/?username=drkostas&label=Profile%20Views&color=0e75b6&style=flat" alt="googoldkhan" />
+<a href="https://pypi.org/user/drkostas/">
+    <img src="https://komarev.com/ghpvc/?username=drkostas&label=Profile%20Views&color=0e75b6&style=flat" alt="googoldkhan" />
 </a>
 
 <br/> 
