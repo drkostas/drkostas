@@ -91,3 +91,20 @@
 | [Quantum Mechanics Quiz App](https://github.com/drkostas/Quantum-Mechanics-Quiz-App)| ![android](https://img.shields.io/badge/App-black?style=flat-square&logo=android)|
 
 </td></tr> </table>
+
+<details>
+<summary>📈 Stats</summary>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
+
+
+<br>
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&redirect=true)
+
+</details>
