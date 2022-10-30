@@ -42,7 +42,7 @@
 
 * 💻 Currently working on Semantic Segmentation, and Reinforcement Learning.
 
-### 🖥️ Projects
+### 🖥️ Open-Source Projects
 <table>
 <tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
 <tr><td>
@@ -52,7 +52,7 @@
 | [3D Semantic Segmentation](https://github.com/drkostas/3D-Semantic-Semgnetation) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 | [Bert Question-Answering](https://github.com/drkostas/Bert-Question-Answering) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy)|
 | [Accident Severity Pred.](https://github.com/drkostas/accident-severity-prediction) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
-| [Hybrid Girvan Newman](https://github.com/drkostas/HGN) | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://www.mdpi.com/1999-4893/12/8/175) ![PySpark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark) <br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)|
+| [Hybrid Girvan Newman](https://github.com/drkostas/HGN) | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C) ![PySpark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark) <br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)|
 | [COVID19 Vacc. Pred.](https://github.com/drkostas/covid19-vaccinations-predict) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
 | [Instagram Likes Pred.](https://github.com/drkostas/Insta-Likes-Predict) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 | [RL Value Iteration](https://github.com/drkostas/RL-Value-Iteration) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
@@ -85,7 +85,7 @@
 
 |Title | Technologies|
 |--|--|
-| [Spotify Button Presser](https://github.com/drkostas/SpotiClick)| ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=raspberry) ![Spotify](https://img.shields.io/badge/API-black?style=flat-square&logo=spotify) <br> ![Switchbot](https://img.shields.io/badge/SwitchBot-black?style=flat-square&logo=arduino)|
+| [Spotify Button Presser](https://github.com/drkostas/SpotiClick)| ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=Raspberry) ![Spotify](https://img.shields.io/badge/API-black?style=flat-square&logo=spotify) <br> ![Switchbot](https://img.shields.io/badge/SwitchBot-black?style=flat-square&logo=arduino)|
 | [Cross The Floor](https://github.com/drkostas/Cross-The-Floor)| ![Sankey Diagram](https://img.shields.io/badge/Sankey-black?style=flat-square&logo=plotly) <br> ![Wiki](https://img.shields.io/badge/Scrapper-black?style=flat-square&logo=wikipedia)|
 | [2D Shooter Game](https://github.com/drkostas/shooter-game-with-p5js)| ![p5](https://img.shields.io/badge/P5.js-black?style=flat-square&logo=p5dotjs)|
 | [Quantum Mechanics Quiz App](https://github.com/drkostas/Quantum-Mechanics-Quiz-App)| ![android](https://img.shields.io/badge/App-black?style=flat-square&logo=android)|
@@ -94,6 +94,7 @@
 
 <details>
 <summary>📈 Stats</summary>
+<br>
 My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
