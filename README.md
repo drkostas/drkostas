@@ -44,7 +44,7 @@
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently working on Semantic Segmentation, and Reinforcement Learning.
+* 💻 Currently working on Semantic Segmentation and Reinforcement Learning.
 
 ### 🖥️ Open-Source Projects
 <table>
