@@ -4,6 +4,9 @@
 </a>
 <br/>
 
+<a href="gkos.tech">
+    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
+</a>  
 <a href="https://drive.google.com/file/d/1V5RjNyzYuvhrWlJyKEve7da_OW6V-IUr/view?usp=sharing">
     <img src="https://img.shields.io/badge/-CV-grey?style=flat-square&logo=google-cloud">
 </a>  
