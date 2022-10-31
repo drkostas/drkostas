@@ -7,8 +7,8 @@
 <a href="https://gkos.tech">
     <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
 </a>  
-<a href="https://drive.google.com/file/d/1V5RjNyzYuvhrWlJyKEve7da_OW6V-IUr/view?usp=sharing">
-    <img src="https://img.shields.io/badge/-CV-grey?style=flat-square&logo=google-cloud">
+<a href="https://gkos.tech/Resume.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/konstantinos-georgiou/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
@@ -113,3 +113,4 @@ Currently Coding & Listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
 
 </details>
+](https://gkos.tech/Resume.pdf)
