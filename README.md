@@ -40,11 +40,11 @@
 
 * 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
 
-* 🎓 Researching on **AI** and **Computer Vision** @ [AICIP Lab](https://aicip.github.io/research.htm).
+* 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently working on Semantic Segmentation and Reinforcement Learning.
+* 💻 Currently working on Semantic Segmentation, Domain Adaptation, and Remote Sensing.
 
 ### 🖥️ Open-Source Projects
 <table>
