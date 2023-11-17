@@ -4,10 +4,10 @@
 </a>
 <br/>
 
-<a href="https://gkos.tech">
-    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
+<a href="https://gkos.dev">
+    <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
 </a>  
-<a href="https://gkos.tech/Resume.pdf">
+<a href="https://gkos.dev/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/konstantinos-georgiou/">
