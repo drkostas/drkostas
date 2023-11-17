@@ -42,9 +42,7 @@
 
 * 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
 
-* 💡 Open to collaborating on projects and innovative ideas. 
-
-* 💻 Currently working on Semantic Segmentation, Domain Adaptation, and Remote Sensing.
+* 💻 Currently building Masked Image Modeling models for Remote Sensing data. 
 
 ### 🖥️ Open-Source Projects
 <table>
