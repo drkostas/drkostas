@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;ML+Researcher+%7C+PhD+Candidate+%7C+Data+Engineer;AI+%7C+Computer+Vision+%7C+LLMs" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -42,7 +42,7 @@
 
 * 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
 
-* 💻 Currently building Masked Image Modeling models for Remote Sensing data. 
+* 💻 Currently working on self-supervised methods for improving representation learning of Transformer-based models. 
 
 ### 🖥️ Open-Source Projects
 <table>
