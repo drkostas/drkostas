@@ -49,7 +49,7 @@
 <div align="center">
 
 ### 🖥️ Open-Source Projects
-<table width="100%">
+<table style="table-layout:fixed;width:100%">
 <tr><th width="40%">Title</th><th width="12%">Stars</th><th width="48%">Technologies</th></tr>
 <tr><th colspan="3">Machine Learning</th></tr>
 <tr><td><a href="https://github.com/aicip/Cross-Scale-MAE">Cross-Scale-MAE</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/aicip/Cross-Scale-MAE?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch"> <img src="https://img.shields.io/badge/CUDA-black?style=flat-square&logo=nvidia"></td></tr>
@@ -63,7 +63,10 @@
 <tr><td><a href="https://github.com/drkostas/RL-Value-Iteration">RL Value Iteration</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/RL-Value-Iteration?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy"></td></tr>
 <tr><td><a href="https://github.com/drkostas/Numpy-CNN">Vanilla Numpy CNN</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-CNN?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy"></td></tr>
 <tr><td><a href="https://github.com/drkostas/Numpy-NeuralNet-1">Vanilla Numpy NN</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-NeuralNet-1?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy"></td></tr>
-<tr><td colspan="3"></td></tr>
+</table>
+
+<table style="table-layout:fixed;width:100%">
+<tr><th width="40%">Title</th><th width="12%">Stars</th><th width="48%">Technologies</th></tr>
 <tr><th colspan="3">Fun Stuff</th></tr>
 <tr><td><a href="https://github.com/drkostas/soma">Soma Health Dashboard</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/soma?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Garmin-black?style=flat-square&logo=garmin"> <img src="https://img.shields.io/badge/Strava-black?style=flat-square&logo=strava"> <a href="https://soma-demo.gkos.dev"><img src="https://img.shields.io/badge/Demo-black?style=flat-square&logo=vercel"></a></td></tr>
 <tr><td><a href="https://github.com/drkostas/Youtube-FirstCommentBot">Youtube Comment Bot</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Youtube-FirstCommentBot?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/API-black?style=flat-square&logo=youtube"> <img src="https://img.shields.io/badge/API-black?style=flat-square&logo=gmail"> <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql"></td></tr>
@@ -71,7 +74,10 @@
 <tr><td><a href="https://github.com/drkostas/Cross-The-Floor">Cross The Floor</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Cross-The-Floor?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Sankey-black?style=flat-square&logo=plotly"> <img src="https://img.shields.io/badge/Scrapper-black?style=flat-square&logo=wikipedia"></td></tr>
 <tr><td><a href="https://github.com/drkostas/shooter-game-with-p5js">2D Shooter Game</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/shooter-game-with-p5js?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/P5.js-black?style=flat-square&logo=p5dotjs"></td></tr>
 <tr><td><a href="https://github.com/drkostas/Quantum-Mechanics-Quiz-App">Quantum Mechanics Quiz App</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Quantum-Mechanics-Quiz-App?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/App-black?style=flat-square&logo=android"></td></tr>
-<tr><td colspan="3"></td></tr>
+</table>
+
+<table style="table-layout:fixed;width:100%">
+<tr><th width="40%">Title</th><th width="12%">Stars</th><th width="48%">Technologies</th></tr>
 <tr><th colspan="3">PyPi Packages</th></tr>
 <tr><td><a href="https://github.com/drkostas/garmin-auth">Garmin Auth</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/garmin-auth?style=flat-square&labelColor=black"/></td><td><a href="https://pypi.org/project/garmin-auth/"><img src="https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi"></a> <img src="https://img.shields.io/badge/Garmin-black?style=flat-square&logo=garmin"> <a href="https://pepy.tech/project/garmin-auth"><img src="https://static.pepy.tech/personalized-badge/garmin-auth?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads"></a></td></tr>
 <tr><td><a href="https://github.com/drkostas/high-sql">High SQL</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/high-sql?style=flat-square&labelColor=black"/></td><td><a href="https://pypi.org/project/high-sql/"><img src="https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi"></a> <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql"> <a href="https://pepy.tech/project/high-sql"><img src="https://static.pepy.tech/personalized-badge/high-sql?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads"></a></td></tr>
