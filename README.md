@@ -85,23 +85,14 @@
 </td></tr> </table>
 
 <table>
-<tr><th>Bots</th></tr>
-<tr><td>
-
-|Title | Stars | Technologies|
-|--|--|--|
-| [Youtube Comment Bot](https://github.com/drkostas/Youtube-FirstCommentBot) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Youtube-FirstCommentBot?style=flat-square&labelColor=black"/> | ![YT](https://img.shields.io/badge/API-black?style=flat-square&logo=youtube) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
-| [Job Application Bot](https://github.com/drkostas/JobApplicationBot) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/JobApplicationBot?style=flat-square&labelColor=black"/> | ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
-
-</td></tr> </table>
-
-<table>
-<tr><th>Misc Projects</th></tr>
+<tr><th>Apps & Bots</th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
 |--|--|--|
 | [Soma Health Dashboard](https://github.com/drkostas/soma) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/soma?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Garmin](https://img.shields.io/badge/Garmin-black?style=flat-square&logo=garmin) ![Strava](https://img.shields.io/badge/Strava-black?style=flat-square&logo=strava) [![Demo](https://img.shields.io/badge/Demo-black?style=flat-square&logo=vercel)](https://soma-demo.gkos.dev)|
+| [Youtube Comment Bot](https://github.com/drkostas/Youtube-FirstCommentBot) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Youtube-FirstCommentBot?style=flat-square&labelColor=black"/> | ![YT](https://img.shields.io/badge/API-black?style=flat-square&logo=youtube) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
+| [Job Application Bot](https://github.com/drkostas/JobApplicationBot) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/JobApplicationBot?style=flat-square&labelColor=black"/> | ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
 | [Spotify Button Presser](https://github.com/drkostas/SpotiClick) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/SpotiClick?style=flat-square&labelColor=black"/> | ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=Raspberry) ![Spotify](https://img.shields.io/badge/API-black?style=flat-square&logo=spotify) ![Switchbot](https://img.shields.io/badge/SwitchBot-black?style=flat-square&logo=arduino)|
 | [Cross The Floor](https://github.com/drkostas/Cross-The-Floor) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Cross-The-Floor?style=flat-square&labelColor=black"/> | ![Sankey Diagram](https://img.shields.io/badge/Sankey-black?style=flat-square&logo=plotly) ![Wiki](https://img.shields.io/badge/Scrapper-black?style=flat-square&logo=wikipedia)|
 | [2D Shooter Game](https://github.com/drkostas/shooter-game-with-p5js) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/shooter-game-with-p5js?style=flat-square&labelColor=black"/> | ![p5](https://img.shields.io/badge/P5.js-black?style=flat-square&logo=p5dotjs)|
