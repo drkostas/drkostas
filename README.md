@@ -48,7 +48,7 @@
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th width="50%">Machine Learning </th><th width="50%">PyPi Packages</th></tr>
+<tr><th width="40%">Machine Learning </th><th width="60%">PyPi Packages</th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
@@ -78,7 +78,7 @@
 </td></tr> </table>
 
 <table>
-<tr><th width="50%">Bots </th><th width="50%">Misc Projects </th></tr>
+<tr><th width="40%">Bots </th><th width="60%">Misc Projects </th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
