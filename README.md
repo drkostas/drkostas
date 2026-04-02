@@ -46,6 +46,8 @@
 
 * 💡 Open to collaborating on projects and innovative ideas.
 
+<div align="center">
+
 ### 🖥️ Open-Source Projects
 <table>
 <tr><th>Machine Learning</th></tr>
@@ -78,6 +80,7 @@
 | [Color Logger](https://github.com/drkostas/termcolor-logger) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/termcolor-logger?style=flat-square&labelColor=black"/> | [![LogPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/termcolor-logger/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![LogDown](https://static.pepy.tech/personalized-badge/termcolor-logger?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/termcolor-logger)|
 | [Email Sender](https://github.com/drkostas/pyemail-sender) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/pyemail-sender?style=flat-square&labelColor=black"/> | [![MailPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/pyemail-sender/) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![MailDown](https://static.pepy.tech/personalized-badge/pyemail-sender?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/pyemail-sender) |
 | [Benchmark Tools](https://github.com/drkostas/bench-utils) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/bench-utils?style=flat-square&labelColor=black"/> | [![BenchPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/bench-utils/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![BenchDown](https://static.pepy.tech/personalized-badge/bench-utils?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/bench-utils) |
+| [Garmin Auth](https://github.com/drkostas/garmin-auth) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/garmin-auth?style=flat-square&labelColor=black"/> | [![GarminPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/garmin-auth/) ![Garmin](https://img.shields.io/badge/Garmin-black?style=flat-square&logo=garmin) [![GarminDown](https://static.pepy.tech/personalized-badge/garmin-auth?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/garmin-auth) |
 
 </td></tr> </table>
 
@@ -105,6 +108,8 @@
 | [Quantum Mechanics Quiz App](https://github.com/drkostas/Quantum-Mechanics-Quiz-App) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Quantum-Mechanics-Quiz-App?style=flat-square&labelColor=black"/> | ![android](https://img.shields.io/badge/App-black?style=flat-square&logo=android)|
 
 </td></tr> </table>
+
+</div>
 
 <details>
 <summary>📈 Stats</summary>
