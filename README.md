@@ -49,7 +49,7 @@
 ### 🖥️ Open-Source Projects
 <table>
 <tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
-<tr><td>
+<tr><td width="50%">
 
 |Title | Stars | Technologies|
 |--|--|--|
@@ -79,7 +79,7 @@
 
 <table>
 <tr><th>Bots </th><th>Misc Projects </th></tr>
-<tr><td>
+<tr><td width="50%">
 
 |Title | Stars | Technologies|
 |--|--|--|
@@ -108,10 +108,5 @@ My Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
 
-
-<br>
-Currently Coding & Listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
 
 </details>
