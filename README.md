@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;ML+Researcher+%7C+PhD+Candidate+%7C+Data+Engineer;AI+%7C+Computer+Vision+%7C+LLMs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Machine+Learning+Engineer+%7C+PhD+AI+Researcher;AI+%7C+Computer+Vision+%7C+LLMs" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -38,11 +38,13 @@
 
 </p>
 
-* 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
+* 📖 PhD Candidate in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/) — defending April 2026, graduating May 2026.
 
-* 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
+* 🎓 Researching **Masked Representation Learning** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
 
-* 💻 Currently working on self-supervised methods for improving representation learning of Transformer-based models. 
+* 💻 Currently working on maritime fleet intelligence, health dashboards, and automated medical scheduling.
+
+* 💡 Open to collaborating on projects and innovative ideas.
 
 ### 🖥️ Open-Source Projects
 <table>
@@ -88,6 +90,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
+| [Soma Health Dashboard](https://github.com/drkostas/soma) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/soma?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Garmin](https://img.shields.io/badge/Garmin-black?style=flat-square&logo=garmin) <br> ![Strava](https://img.shields.io/badge/Strava-black?style=flat-square&logo=strava) [![Demo](https://img.shields.io/badge/Demo-black?style=flat-square&logo=vercel)](https://soma-demo.gkos.dev)|
 | [Spotify Button Presser](https://github.com/drkostas/SpotiClick) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/SpotiClick?style=flat-square&labelColor=black"/> | ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=Raspberry) ![Spotify](https://img.shields.io/badge/API-black?style=flat-square&logo=spotify) <br> ![Switchbot](https://img.shields.io/badge/SwitchBot-black?style=flat-square&logo=arduino)|
 | [Cross The Floor](https://github.com/drkostas/Cross-The-Floor) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Cross-The-Floor?style=flat-square&labelColor=black"/> | ![Sankey Diagram](https://img.shields.io/badge/Sankey-black?style=flat-square&logo=plotly) <br> ![Wiki](https://img.shields.io/badge/Scrapper-black?style=flat-square&logo=wikipedia)|
 | [2D Shooter Game](https://github.com/drkostas/shooter-game-with-p5js) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/shooter-game-with-p5js?style=flat-square&labelColor=black"/> | ![p5](https://img.shields.io/badge/P5.js-black?style=flat-square&logo=p5dotjs)|
