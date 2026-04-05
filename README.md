@@ -22,6 +22,9 @@
 <a href="https://pypi.org/user/drkostas/">
     <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
+<a href="https://huggingface.co/drkostas">
+    <img src="https://img.shields.io/badge/HuggingFace-drkostas-yellow?style=flat-square&logo=huggingface&logoColor=white">
+</a>
 <!-- <a href="https://pypi.org/user/drkostas/">
     <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
 </a> -->
