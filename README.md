@@ -1,19 +1,25 @@
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Machine+Learning+Engineer+%7C+PhD+AI+Researcher;AI+%7C+Computer+Vision+%7C+LLMs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=560&height=80&lines=Kostas+Georgiou;ML+Engineer+%2B+PhD+%E2%80%94+research+and+shipping;Self-Supervised+Learning+%7C+LLMs+%7C+Computer+Vision" alt="Typing SVG" />
 </a>
 <br/>
 
 <a href="https://gkos.dev">
     <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
 </a>  
-<a href="https://gkos.dev/Resume.pdf">
+<a href="https://gkos.dev/api/cv">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
+<a href="https://gkos.dev/publications">
+    <img src="https://img.shields.io/badge/Publications-blue?style=flat-square&logo=googlescholar&logoColor=white">
+</a>
+<a href="https://gkos.dev/blog">
+    <img src="https://img.shields.io/badge/Blog-purple?style=flat-square&logo=hashnode&logoColor=white">
+</a>
 <a href="https://www.linkedin.com/in/gkos/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:georgiou.kostas94@gmail.com">
+<a href="mailto:gkos.mldev@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
@@ -25,15 +31,8 @@
 <a href="https://huggingface.co/drkostas">
     <img src="https://img.shields.io/badge/HuggingFace-drkostas-yellow?style=flat-square&logo=huggingface&logoColor=white">
 </a>
-<!-- <a href="https://pypi.org/user/drkostas/">
-    <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
-</a> -->
 
 <br/> 
-
-<!-- <a href="https://github.com/drkostas">
-    <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a> -->
 
 <a href="https://github.com/drkostas">
     <img src="https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
@@ -41,28 +40,38 @@
 
 </p>
 
-* 📖 PhD Candidate in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/) — defending April 2026, graduating May 2026.
+* 📖 PhD in Data Science & Engineering, [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/), May 2026. Advised by Hairong Qi at the [AICIP Lab](https://aicip.github.io/research.htm).
 
-* 🎓 Researching **Masked Representation Learning** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
+* 🎓 Research focus: **masked representation learning** and **computer vision**. Side trips through LLMs and remote sensing.
 
-* 💻 Currently working on maritime fleet intelligence, health dashboards, and automated medical scheduling.
+* 💻 Currently building [FleetSmart.ai](https://fleetsmart.ai) (maritime fleet intelligence), [Soma](https://github.com/drkostas/soma) (personal health dashboard), and ShiftMD (automated medical scheduling).
 
-* 💡 Open to collaborating on projects and innovative ideas.
+* 💡 What I'm doing now: [gkos.dev/about](https://gkos.dev/about). Open to chat about ML or research at [gkos.dev/contact](https://gkos.dev/contact).
 
 <div align="center">
 
-### 🖥️ Open-Source Projects
+### 🖥️ Projects & Products
+
+<table style="table-layout:fixed;width:100%">
+<tr><th colspan="3">Products & live work</th></tr>
+<tr><th width="40%">Title</th><th width="12%">Stars</th><th width="48%">Tech / Links</th></tr>
+<tr><td><a href="https://github.com/drkostas/gkos.dev">gkos.dev (this site)</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/gkos.dev?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Astro-black?style=flat-square&logo=astro"> <img src="https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss"> <a href="https://gkos.dev"><img src="https://img.shields.io/badge/Live-black?style=flat-square&logo=vercel"></a></td></tr>
+<tr><td><a href="https://github.com/drkostas/hevy2garmin">Hevy → Garmin Sync</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/hevy2garmin?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Garmin-black?style=flat-square&logo=garmin"> <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"> <a href="https://hevy2garmin-demo.gkos.dev"><img src="https://img.shields.io/badge/Demo-black?style=flat-square&logo=vercel"></a></td></tr>
+<tr><td><a href="https://github.com/drkostas/soma">Soma Health Dashboard</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/soma?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Garmin-black?style=flat-square&logo=garmin"> <img src="https://img.shields.io/badge/Strava-black?style=flat-square&logo=strava"> <a href="https://soma-demo.gkos.dev"><img src="https://img.shields.io/badge/Demo-black?style=flat-square&logo=vercel"></a></td></tr>
+<tr><td><a href="https://github.com/drkostas/vscode-portfolio">VSCode Portfolio (archived predecessor)</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/vscode-portfolio?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs"> <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel"></td></tr>
+</table>
+
 <table style="table-layout:fixed;width:100%">
 <tr><th colspan="3">Machine Learning</th></tr>
 <tr><th width="40%">Title</th><th width="12%">Stars</th><th width="48%">Technologies</th></tr>
 <tr><td><a href="https://github.com/aicip/MEDiC">MEDiC</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/aicip/MEDiC?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch"> <img src="https://img.shields.io/badge/CUDA-black?style=flat-square&logo=nvidia"> <a href="https://huggingface.co/drkostas/MEDiC-ViT-Base"><img src="https://img.shields.io/badge/Checkpoints-black?style=flat-square&logo=huggingface"></a></td></tr>
 <tr><td><a href="https://github.com/drkostas/MaskDistill-PyTorch">MaskDistill-PyTorch</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/MaskDistill-PyTorch?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch"> <img src="https://img.shields.io/badge/CUDA-black?style=flat-square&logo=nvidia"> <a href="https://huggingface.co/drkostas/MaskDistill-ViT-Base"><img src="https://img.shields.io/badge/Checkpoints-black?style=flat-square&logo=huggingface"></a></td></tr>
 <tr><td><a href="https://github.com/aicip/Cross-Scale-MAE">Cross-Scale-MAE</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/aicip/Cross-Scale-MAE?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch"> <img src="https://img.shields.io/badge/CUDA-black?style=flat-square&logo=nvidia"></td></tr>
-<tr><td><a href="https://github.com/drkostas/Minecraft-AI">Minecraft-AI</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow"></td></tr>
-<tr><td><a href="https://github.com/drkostas/3D-Semantic-Segmentation">3D Semantic Segmentation</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch"> <img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv"></td></tr>
-<tr><td><a href="https://github.com/drkostas/Bert-Rinehart-Novels">Bert Rinehart Novels</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Bert-Question-Answering?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch"> <img src="https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy"></td></tr>
-<tr><td><a href="https://github.com/drkostas/accident-severity-prediction">Car Accidents Pred.</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/accident-severity-prediction?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas"> <img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy"></td></tr>
 <tr><td><a href="https://github.com/drkostas/HGN">Hybrid Girvan Newman</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/HGN?style=flat-square&labelColor=black"/></td><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C"><img src="https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar"></a> <img src="https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark"> <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql"></td></tr>
+<tr><td><a href="https://github.com/drkostas/Minecraft-AI">Minecraft-AI</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow"></td></tr>
+<tr><td><a href="https://github.com/drkostas/Bert-Rinehart-Novels">Bert Rinehart Novels</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Bert-Rinehart-Novels?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch"> <img src="https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy"></td></tr>
+<tr><td><a href="https://github.com/drkostas/3D-Semantic-Segmentation">3D Semantic Segmentation</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch"> <img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv"></td></tr>
+<tr><td><a href="https://github.com/drkostas/accident-severity-prediction">Car Accidents Pred.</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/accident-severity-prediction?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas"> <img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy"></td></tr>
 <tr><td><a href="https://github.com/drkostas/covid19-vaccinations-predict">COVID19 Vacc. Pred.</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/covid19-vaccinations-predict?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow"></td></tr>
 <tr><td><a href="https://github.com/drkostas/Insta-Likes-Predict">Instagram Likes Pred.</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Insta-Likes-Predict?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow"> <img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv"></td></tr>
 <tr><td><a href="https://github.com/drkostas/RL-Value-Iteration">RL Value Iteration</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/RL-Value-Iteration?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy"></td></tr>
@@ -73,12 +82,9 @@
 <table style="table-layout:fixed;width:100%">
 <tr><th colspan="3">Fun Stuff</th></tr>
 <tr><th width="40%">Title</th><th width="12%">Stars</th><th width="48%">Technologies</th></tr>
-<tr><td><a href="https://github.com/drkostas/drkostas.github.io">VSCode Portfolio</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/drkostas.github.io?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs"> <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel"> <a href="https://gkos.dev"><img src="https://img.shields.io/badge/Live-black?style=flat-square&logo=vercel"></a></td></tr>
-<tr><td><a href="https://github.com/drkostas/soma">Soma Health Dashboard</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/soma?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Garmin-black?style=flat-square&logo=garmin"> <img src="https://img.shields.io/badge/Strava-black?style=flat-square&logo=strava"> <a href="https://soma-demo.gkos.dev"><img src="https://img.shields.io/badge/Demo-black?style=flat-square&logo=vercel"></a></td></tr>
 <tr><td><a href="https://github.com/drkostas/Youtube-FirstCommentBot">Youtube Comment Bot</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Youtube-FirstCommentBot?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/API-black?style=flat-square&logo=youtube"> <img src="https://img.shields.io/badge/API-black?style=flat-square&logo=gmail"> <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql"></td></tr>
+<tr><td><a href="https://github.com/drkostas/python_search_engine">Python Search Engine</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/python_search_engine?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"> <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask"> <a href="https://search.gkos.dev"><img src="https://img.shields.io/badge/Live-black?style=flat-square&logo=vercel"></a></td></tr>
 <tr><td><a href="https://github.com/drkostas/SpotiClick">Spotify Button Presser</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/SpotiClick?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=Raspberry"> <img src="https://img.shields.io/badge/API-black?style=flat-square&logo=spotify"> <img src="https://img.shields.io/badge/SwitchBot-black?style=flat-square&logo=arduino"></td></tr>
-<tr><td><a href="https://github.com/drkostas/Cross-The-Floor">Cross The Floor</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Cross-The-Floor?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Sankey-black?style=flat-square&logo=plotly"> <img src="https://img.shields.io/badge/Scrapper-black?style=flat-square&logo=wikipedia"></td></tr>
-<tr><td><a href="https://github.com/drkostas/shooter-game-with-p5js">2D Shooter Game</a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/drkostas/shooter-game-with-p5js?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/P5.js-black?style=flat-square&logo=p5dotjs"></td></tr>
 </table>
 
 <table style="table-layout:fixed;width:100%">
@@ -98,12 +104,10 @@
 <details>
 <summary>📈 Stats</summary>
 <br>
-My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
-
 
 </details>
