@@ -1,0 +1,17 @@
+kind: banner
+name: drkostas
+line: My GitHub profile page, with links to my papers, my projects and my website.
+accent: violet
+diagram:
+- user:
+    label: kostas
+    accent: true
+- dots
+- doc:
+    label: papers
+- dots
+- folder:
+    label: projects
+- dots
+- globe:
+    label: gkos.dev
