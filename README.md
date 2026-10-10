@@ -1,4 +1,6 @@
 <p align="center">
+<img src="docs/images/banner.png" width="100%" alt="drkostas">
+<br/>
 <a href="https://github.com/drkostas">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=560&height=80&lines=Kostas+Georgiou;ML+Engineer+%2B+PhD+%E2%80%94+research+and+shipping;Self-Supervised+Learning+%7C+LLMs+%7C+Computer+Vision" alt="Typing SVG" />
 </a>
